@@ -5,3 +5,5 @@ Django-Blog.sublime-workspace
 Django-Blog.sublime-project
 *.pyc
 *~
+/static
+.DS_Store
