@@ -7,3 +7,4 @@ Django-Blog.sublime-project
 *~
 /static
 .DS_Store
+*.cpython*.pyc
