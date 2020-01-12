@@ -16,7 +16,7 @@
             <a href="{% url 'post_new' %}" class="top-menu"><span class="glyphicon glyphicon-plus"></span></a>            
             <p class="top-menu">Hello {{ user.username }}</p>
             {% else %}
-             <a href="{% url 'login' %}" class="top-menu"><span class="glyphicon glyphicon-lock"></span></a>
+             <a href="{% url 'login' %}" class="top-menu"><span class="glyphicon glyphicon-log-in"></span></a>
             {% endif %}
             <h1><a href="/">Django Girls Blog</a></h1>
         </div>
