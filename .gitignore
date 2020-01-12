@@ -1,3 +1,5 @@
 venv/
+__pycache__
+db.sqlite3
 Django-Blog.sublime-workspace
 Django-Blog.sublime-project
