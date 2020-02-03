@@ -1,5 +1,5 @@
 # Django-Blog
-## A simple Django-Blog implemented for practice by following Django Girls Tutorial.
+## A simple Django-Blog implemented for practice
 
 [Click here](http://pratik149.pythonanywhere.com/) to visit blog
 
